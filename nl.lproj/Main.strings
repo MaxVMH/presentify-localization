@@ -1,114 +1,114 @@
 
 /* Class = "NSTextFieldCell"; title = "Whiteboard"; ObjectID = "0db-dL-QbR"; */
-"0db-dL-QbR.title" = "Интерактивная доска";
+"0db-dL-QbR.title" = "Whiteboard";
 
 /* Class = "NSTabViewItem"; label = "Keyboard"; ObjectID = "1Kn-m6-tyf"; */
-"1Kn-m6-tyf.label" = "Горячие клавиши";
+"1Kn-m6-tyf.label" = "Toetsenbord";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
-"1UK-8n-QPP.title" = "Customize Toolbar…";
+"1UK-8n-QPP.title" = "Bewerk taakbalk…";
 
 /* Class = "NSMenuItem"; title = "Presentify"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Presentify";
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
-"1b7-l0-nxx.title" = "Find";
+"1b7-l0-nxx.title" = "Vind";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; */
-"1tx-W0-xDw.title" = "Lower";
+"1tx-W0-xDw.title" = "Lager";
 
 /* Class = "NSTextFieldCell"; title = "First Fav Color"; ObjectID = "2B6-08-mzj"; */
-"2B6-08-mzj.title" = "Первый любимый цвет";
+"2B6-08-mzj.title" = "Eerste favoriete kleur";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
-"2h7-ER-AoG.title" = "Raise";
+"2h7-ER-AoG.title" = "Verhoog";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
-"2oI-Rn-ZJC.title" = "Transformations";
+"2oI-Rn-ZJC.title" = "Transformaties";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
 "3IN-sU-3Bg.title" = "Spelling";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "3Om-Ey-2VK"; */
-"3Om-Ey-2VK.title" = "Use Default";
+"3Om-Ey-2VK.title" = "Gebruik standaard";
 
 /* Class = "NSTextFieldCell"; title = "Annotate Shortcuts"; ObjectID = "3Td-Nj-W3G"; */
-"3Td-Nj-W3G.title" = "Горячие клавиши";
+"3Td-Nj-W3G.title" = "Annoteer snelkoppelingen";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
-"3rS-ZA-NoH.title" = "Speech";
+"3rS-ZA-NoH.title" = "Spraak";
 
 /* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
-"46P-cB-AYj.title" = "Tighten";
+"46P-cB-AYj.title" = "Aanhalen";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
-"4EN-yA-p0u.title" = "Find";
+"4EN-yA-p0u.title" = "Vind";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
-"4J7-dP-txa.title" = "Enter Full Screen";
+"4J7-dP-txa.title" = "Schakel schermvullende weergave in";
 
 /* Class = "NSMenuItem"; title = "Quit Presentify"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit Presentify";
+"4sb-4s-VLi.title" = "Stop Presentify";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
-"5QF-Oa-p0T.title" = "Edit";
+"5QF-Oa-p0T.title" = "Wijzig";
 
 /* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; */
-"5Vv-lz-BsD.title" = "Copy Style";
+"5Vv-lz-BsD.title" = "Kopieer stijl";
 
 /* Class = "NSMenuItem"; title = "About Presentify"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About Presentify";
+"5kV-Vb-QxS.title" = "Over Presentify";
 
 /* Class = "NSTextFieldCell"; title = "Second Fav Color"; ObjectID = "61k-qN-2Q6"; */
-"61k-qN-2Q6.title" = "Второй любимый цвет";
+"61k-qN-2Q6.title" = "Tweede favoriete kleur";
 
 /* Class = "NSButtonCell"; title = "A"; ObjectID = "6aG-7Y-TPn"; */
 "6aG-7Y-TPn.title" = "A";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
-"6dh-zS-Vam.title" = "Redo";
+"6dh-zS-Vam.title" = "Opnieuw";
 
 /* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
-"78Y-hA-62v.title" = "Correct Spelling Automatically";
+"78Y-hA-62v.title" = "Automatische spellingscorrectie";
 
 /* Class = "NSWindow"; title = "Annotate Shortcuts"; ObjectID = "7AY-iv-NeW"; */
-"7AY-iv-NeW.title" = "Annotate Shortcuts";
+"7AY-iv-NeW.title" = "Annotateer snelkoppelingen";
 
 /* Class = "NSTextFieldCell"; title = "Cursor Highlight Opacity"; ObjectID = "7Kz-JO-8yF"; */
-"7Kz-JO-8yF.title" = "Прозрачность курсора";
+"7Kz-JO-8yF.title" = "Cursor markering doorzichtigheid";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "7Pb-0L-IyM"; */
-"7Pb-0L-IyM.title" = "Window";
+"7Pb-0L-IyM.title" = "Venster";
 
 /* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "8mr-sm-Yjd"; */
-"8mr-sm-Yjd.title" = "Writing Direction";
+"8mr-sm-Yjd.title" = "Schrijfrichting";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
-"9ic-FL-obx.title" = "Substitutions";
+"9ic-FL-obx.title" = "Vervangingen";
 
 /* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
-"9yt-4B-nSM.title" = "Smart Copy/Paste";
+"9yt-4B-nSM.title" = "Slim kopieren/plakken";
 
 /* Class = "NSTabViewItem"; label = "Annotate"; ObjectID = "ARZ-be-616"; */
-"ARZ-be-616.label" = "Заметки";
+"ARZ-be-616.label" = "Annoteer";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "Main Menu";
+"AYu-sK-qS6.title" = "Hoofdmenu";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Preferences…";
+"BOF-NM-1cW.title" = "Voorkeuren…";
 
 /* Class = "NSMenuItem"; title = "Dashed"; ObjectID = "BZ0-Vl-2kG"; */
-"BZ0-Vl-2kG.title" = "Dashed";
+"BZ0-Vl-2kG.title" = "Gestippeld";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
-"BgM-ve-c93.title" = "\tLeft to Right";
+"BgM-ve-c93.title" = "\tVan links naar rechts";
 
 /* Class = "NSButtonCell"; title = "Round Rect"; ObjectID = "BuE-bC-gU8"; */
-"BuE-bC-gU8.title" = "Round Rect";
+"BuE-bC-gU8.title" = "Afgeronde rechthoek";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
-"Bw7-FT-i3A.title" = "Save As…";
+"Bw7-FT-i3A.title" = "Bewaar als…";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "Co0-Yo-Bew"; */
 "Co0-Yo-Bew.title" = "C";
@@ -117,13 +117,13 @@
 "DMv-OY-1ow.title" = "C";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
-"DVo-aG-piG.title" = "Close";
+"DVo-aG-piG.title" = "Sluit";
 
 /* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; */
-"Dv1-io-Yv7.title" = "Spelling and Grammar";
+"Dv1-io-Yv7.title" = "Spelling en grammatica";
 
 /* Class = "NSButtonCell"; title = "Start app at login"; ObjectID = "E3x-Hr-rR0"; */
-"E3x-Hr-rR0.title" = "Запускать приложение при входе в систему";
+"E3x-Hr-rR0.title" = "Start app bij inloggen";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Help";
@@ -135,43 +135,43 @@
 "FKE-Sm-Kum.title" = "Presentify Help";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
-"Fal-I4-PZk.title" = "Text";
+"Fal-I4-PZk.title" = "Tekst";
 
 /* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
-"FeM-D8-WVr.title" = "Substitutions";
+"FeM-D8-WVr.title" = "Vervangingen";
 
 /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "GB9-OM-e27"; */
-"GB9-OM-e27.title" = "Bold";
+"GB9-OM-e27.title" = "Vet";
 
 /* Class = "NSMenu"; title = "Format"; ObjectID = "GEO-Iw-cKr"; */
-"GEO-Iw-cKr.title" = "Format";
+"GEO-Iw-cKr.title" = "Formaat";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "GUa-eO-cwY"; */
-"GUa-eO-cwY.title" = "Use Default";
+"GUa-eO-cwY.title" = "Gebruik standaard";
 
 /* Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; */
-"Gi5-1S-RQB.title" = "Font";
+"Gi5-1S-RQB.title" = "Lettertype";
 
 /* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; */
-"H1b-Si-o9J.title" = "Writing Direction";
+"H1b-Si-o9J.title" = "Schrijfrichting";
 
 /* Class = "NSTextFieldCell"; title = "Hold down Option Key while drawing Rectangles or Circles to fill a semi-transparent color."; ObjectID = "H6d-jK-d3o"; */
-"H6d-jK-d3o.title" = "Удерживайте клавишу «Option» во время рисования прямоугольников или кругов, чтобы залить полупрозрачный цвет.";
+"H6d-jK-d3o.title" = "Houd de option-toets ingedrukt terwijl u rechthoeken of cirkels tekent om ze te vullen met een half-transparante kleur.";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "View";
+"H8h-7b-M4v.title" = "Bekijk";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
-"HFQ-gK-NFA.title" = "Text Replacement";
+"HFQ-gK-NFA.title" = "Tekst vervangen";
 
 /* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; */
-"HFo-cy-zxI.title" = "Show Spelling and Grammar";
+"HFo-cy-zxI.title" = "Toon spelling en grammatica";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Erase all"; ObjectID = "HlN-Sj-S7B"; */
-"HlN-Sj-S7B.ibShadowedToolTip" = "Стереть все";
+"HlN-Sj-S7B.ibShadowedToolTip" = "Verwijder alles";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "View";
+"HyV-fh-RgO.title" = "Bekijk";
 
 /* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "I0S-gh-46l"; */
 "I0S-gh-46l.title" = "Subscript";
@@ -180,145 +180,145 @@
 "IAo-SY-fd9.title" = "Open…";
 
 /* Class = "NSTextFieldCell"; title = "Highlight Color"; ObjectID = "IFr-N7-z9M"; */
-"IFr-N7-z9M.title" = "Цвет подсветки";
+"IFr-N7-z9M.title" = "Markeer kleur";
 
 /* Class = "NSMenuItem"; title = "Justify"; ObjectID = "J5U-5w-g23"; */
-"J5U-5w-g23.title" = "Justify";
+"J5U-5w-g23.title" = "Rechtvaardigen";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
-"J7y-lM-qPV.title" = "Use None";
+"J7y-lM-qPV.title" = "Geen gebruiken";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "JM6-OU-IuG"; */
 "JM6-OU-IuG.title" = "C";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Move Annotate Controls"; ObjectID = "JvL-1K-hfp"; */
-"JvL-1K-hfp.ibShadowedToolTip" = "Переместить панель заметок";
+"JvL-1K-hfp.ibShadowedToolTip" = "Verplaats annotitieknoppen";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
-"KaW-ft-85H.title" = "Revert to Saved";
+"KaW-ft-85H.title" = "Terugkeren naar opgeslagen bestand";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
-"Kd2-mp-pUS.title" = "Show All";
+"Kd2-mp-pUS.title" = "Toonalles";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Erase all"; ObjectID = "KlH-Uf-oc1"; */
-"KlH-Uf-oc1.ibShadowedToolTip" = "Стереть все";
+"KlH-Uf-oc1.ibShadowedToolTip" = "Wis alles";
 
 /* Class = "NSTextFieldCell"; title = "Undo"; ObjectID = "KvF-sv-PWx"; */
-"KvF-sv-PWx.title" = "Undo";
+"KvF-sv-PWx.title" = "Herstel";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "Bring All to Front";
+"LE2-aR-0XJ.title" = "Alles op voorgrond";
 
 /* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
-"LVM-kO-fVI.title" = "Paste Ruler";
+"LVM-kO-fVI.title" = "Liniaal invoegen";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
-"Lbh-J2-qVU.title" = "\tLeft to Right";
+"Lbh-J2-qVU.title" = "\tVan links naar rechts";
 
 /* Class = "NSTextFieldCell"; title = "Annotate on a whiteboard instead of on a screen"; ObjectID = "Lcb-Fz-V1t"; */
-"Lcb-Fz-V1t.title" = "Заметки на доске вместо экрана";
+"Lcb-Fz-V1t.title" = "Annoteer op een whiteboard ipv op een scherm";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "MTd-xF-bMG"; */
 "MTd-xF-bMG.title" = "C";
 
 /* Class = "NSTextFieldCell"; title = "Set the style of the ring border"; ObjectID = "MZr-IO-fWS"; */
-"MZr-IO-fWS.title" = "Установите стиль границы кольца";
+"MZr-IO-fWS.title" = "Stel stijl van de ringrand in";
 
 /* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
-"MkV-Pr-PK5.title" = "Copy Ruler";
+"MkV-Pr-PK5.title" = "Kopieer liniaal";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "NEK-BM-pSz"; */
 "NEK-BM-pSz.title" = "C";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
-"NMo-om-nkz.title" = "Services";
+"NMo-om-nkz.title" = "Voorzieningen";
 
 /* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Nop-cj-93Q"; */
-"Nop-cj-93Q.title" = "\tDefault";
+"Nop-cj-93Q.title" = "\tStandaard";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "Minimize";
+"OY7-WF-poV.title" = "Minimaliseer";
 
 /* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "OaQ-X3-Vso"; */
-"OaQ-X3-Vso.title" = "Baseline";
+"OaQ-X3-Vso.title" = "Basismijn";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "OfP-VF-agR"; */
 "OfP-VF-agR.title" = "C";
 
 /* Class = "NSTextFieldCell"; title = "Third Fav Color"; ObjectID = "Old-Z7-kE1"; */
-"Old-Z7-kE1.title" = "Третий любимый цвет";
+"Old-Z7-kE1.title" = "Derde favoriete kleur";
 
 /* Class = "NSMenuItem"; title = "Hide Presentify"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide Presentify";
+"Olw-nP-bQN.title" = "Verberg Presentify";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
-"OwM-mh-QMV.title" = "Find Previous";
+"OwM-mh-QMV.title" = "Zoek vorige";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
-"Oyz-dy-DGm.title" = "Stop Speaking";
+"Oyz-dy-DGm.title" = "Stop met spreken";
 
 /* Class = "NSTextFieldCell"; title = "Rectangle"; ObjectID = "OzO-9v-RD6"; */
-"OzO-9v-RD6.title" = "Прямоугольник";
+"OzO-9v-RD6.title" = "Rechthoek";
 
 /* Class = "NSTextFieldCell"; title = "Whiteboard Color"; ObjectID = "PDp-yz-oVH"; */
-"PDp-yz-oVH.title" = "Цвет доски";
+"PDp-yz-oVH.title" = "Whiteboard kleur";
 
 /* Class = "NSTextFieldCell"; title = "Set the size of the highlight ring"; ObjectID = "Pab-Kx-1fX"; */
-"Pab-Kx-1fX.title" = "Установите размер кольца подсветки";
+"Pab-Kx-1fX.title" = "Stel grootte van de gemarkeerde ring in";
 
 /* Class = "NSButtonCell"; title = "Round Rect"; ObjectID = "PeC-kh-KPs"; */
-"PeC-kh-KPs.title" = "Round Rect";
+"PeC-kh-KPs.title" = "Afgeronde rechthoek";
 
 /* Class = "NSSegmentedCell"; Po7-0Q-d2D.ibShadowedLabels[0] = "Small"; ObjectID = "Po7-0Q-d2D"; */
-"Po7-0Q-d2D.ibShadowedLabels[0]" = "Small";
+"Po7-0Q-d2D.ibShadowedLabels[0]" = "Klein";
 
 /* Class = "NSSegmentedCell"; Po7-0Q-d2D.ibShadowedLabels[1] = "Large"; ObjectID = "Po7-0Q-d2D"; */
-"Po7-0Q-d2D.ibShadowedLabels[1]" = "Large";
+"Po7-0Q-d2D.ibShadowedLabels[1]" = "Groot";
 
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ptp-SP-VEL"; */
-"Ptp-SP-VEL.title" = "Bigger";
+"Ptp-SP-VEL.title" = "Groter";
 
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "Q5e-8K-NDq"; */
-"Q5e-8K-NDq.title" = "Show Fonts";
+"Q5e-8K-NDq.title" = "Toon lettertypes";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "Zoom";
 
 /* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "RB4-Sm-HuC"; */
-"RB4-Sm-HuC.title" = "\tRight to Left";
+"RB4-Sm-HuC.title" = "\tRechts naar Links";
 
 /* Class = "NSTextFieldCell"; title = "Set the weight of your annotations"; ObjectID = "RIq-pW-x2s"; */
-"RIq-pW-x2s.title" = "Установите толщину линий заметок";
+"RIq-pW-x2s.title" = "Stel het gewicht van de annotaties in";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "Rqc-34-cIF"; */
 "Rqc-34-cIF.title" = "Superscript";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
-"Ruw-6m-B2m.title" = "Select All";
+"Ruw-6m-B2m.title" = "Selecteer alles";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "Jump to Selection";
+"S0p-oC-mLd.title" = "Ga naar selectie";
 
 /* Class = "NSTextFieldCell"; title = "Highlight Border"; ObjectID = "SEP-DU-DyP"; */
-"SEP-DU-DyP.title" = "Граница подсветки";
+"SEP-DU-DyP.title" = "Markeer rand";
 
 /* Class = "NSTextFieldCell"; title = "All Annotate Shortcuts"; ObjectID = "SRy-I9-5Ye"; */
-"SRy-I9-5Ye.title" = "Все горячие клавиши";
+"SRy-I9-5Ye.title" = "Alle snelkoppelingen voor annoteren";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "Sye-Hc-SvQ"; */
 "Sye-Hc-SvQ.title" = "C";
 
 /* Class = "NSButtonCell"; title = "Round Rect"; ObjectID = "TLY-JS-GmD"; */
-"TLY-JS-GmD.title" = "Round Rect";
+"TLY-JS-GmD.title" = "Afgeronde rechthoek";
 
 /* Class = "NSTextFieldCell"; title = "Favorite Colors"; ObjectID = "TOY-jq-L3N"; */
-"TOY-jq-L3N.title" = "Любимые цвета";
+"TOY-jq-L3N.title" = "Favoriete kleuren";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "Window";
+"Td7-aD-5lo.title" = "Scherm";
 
 /* Class = "NSTextFieldCell"; title = "Circle"; ObjectID = "Tg8-tR-9Kx"; */
-"Tg8-tR-9Kx.title" = "Круг";
+"Tg8-tR-9Kx.title" = "Cirkel";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Capitalize";
