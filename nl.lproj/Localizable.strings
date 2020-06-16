@@ -5,8 +5,8 @@
   Created by Ram Patra on 31/05/2020.
   Copyright © 2020 Ram Patra. All rights reserved.
 */
-"Annotate Screen" = "Scherm van aantekeningen voorzien";
-"Stop Annotating Screen" = "Stop scherm van aantekeningen te voorzien";
+"Annotate Screen" = "Annoteer scherm";
+"Stop Annotating Screen" = "Stop annoteren van scherm";
 "Highlight Cursor" = "Markeer cursor";
 "Stop Highlighting Cursor" = "Stop markeren van de cursor";
 "Share" = "Deel";
