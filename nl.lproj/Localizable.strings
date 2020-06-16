@@ -5,16 +5,16 @@
   Created by Ram Patra on 31/05/2020.
   Copyright © 2020 Ram Patra. All rights reserved.
 */
-"Annotate Screen" = "Annotate Screen";
-"Stop Annotating Screen" = "Stop Annotating Screen";
-"Highlight Cursor" = "Highlight Cursor";
-"Stop Highlighting Cursor" = "Stop Highlighting Cursor";
-"Share" = "Share";
+"Annotate Screen" = "Scherm van aantekeningen voorzien";
+"Stop Annotating Screen" = "Stop scherm van aantekeningen te voorzien";
+"Highlight Cursor" = "Markeer cursor";
+"Stop Highlighting Cursor" = "Stop markeren van de cursor";
+"Share" = "Deel";
 "Help" = "Help";
 "Faq" = "Faq";
-"Support" = "Support";
+"Support" = "Ondersteuning";
 "Videos" = "Videos";
-"Write a review" = "Write a review";
-"More apps..." = "More apps...";
-"Preferences" = "Preferences";
-"Quit" = "Quit";
+"Write a review" = "Schrijf een beoordeling";
+"More apps..." = "Meer apps...";
+"Preferences" = "Voorkeuren";
+"Quit" = "Stop";
